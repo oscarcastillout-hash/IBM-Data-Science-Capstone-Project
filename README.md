@@ -31,3 +31,5 @@ Applied your creativity to improve the presentation beyond the template (1 pts)
 Displayed any innovative insights (1 pts)
 
 <img width="1283" height="450" alt="newplot" src="https://github.com/user-attachments/assets/caca558c-fb4b-4c3b-8d22-8b53ee2d4ea6" />
+
+<img width="530" height="455" alt="image" src="https://github.com/user-attachments/assets/3be2da2a-3f63-4675-8b82-88255daaa0c1" />
